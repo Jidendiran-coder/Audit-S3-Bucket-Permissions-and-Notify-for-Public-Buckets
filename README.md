@@ -77,7 +77,7 @@ You should receive an alert email if public access is detected.
 
 Email received for accepting SNS topic
 
-![alt text](output/sns_email_confirmed.png)
+<img width="1708" height="592" alt="Screenshot 2025-08-29 224502" src="https://github.com/user-attachments/assets/87bbb1b9-7b34-4ee7-9d58-c2db07a0d18f" />
 
 SNS topic Accepted Message
 
