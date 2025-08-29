@@ -95,4 +95,5 @@ Once the Test trigger is made the Cloud Watch will be capturing this log
 
 Email is received with the list of public buckets
 
-![alt text](output/email_output.png)
+<img width="1806" height="1051" alt="Untitled" src="https://github.com/user-attachments/assets/f526f6fd-436b-41a5-af54-f799a109ae5d" />
+
