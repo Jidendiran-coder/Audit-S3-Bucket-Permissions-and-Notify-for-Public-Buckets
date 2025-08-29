@@ -81,7 +81,8 @@ Email received for accepting SNS topic
 
 SNS topic Accepted Message
 
-![alt text](output/sns_approval.png)
+<img width="1668" height="699" alt="Screenshot 2025-08-29 233235" src="https://github.com/user-attachments/assets/69ff90b0-069d-4072-b1ed-8e39bda50908" />
+
 
 ### Cloud Watch Log
 
