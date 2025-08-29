@@ -88,7 +88,8 @@ SNS topic Accepted Message
 
 Once the Test trigger is made the Cloud Watch will be capturing this log
 
-![alt text](output/cloud_watch_log.png)
+<img width="1830" height="597" alt="Screenshot 2025-08-29 233719" src="https://github.com/user-attachments/assets/767f45cc-6b2d-49b8-9414-56fd6a6d6400" />
+
 
 ### Email received 
 
